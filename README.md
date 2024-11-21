@@ -226,7 +226,7 @@ Download
 * Download the self paced learning module as a SCORM Package (ZIP)
 * Download the self paced learning module project files (ZIP)
 
-### Chapters and Learning Goals
+### Chapters, Key Themes and Learning Goals
 
 ![Chapters](8fdfcda3337077656fb061a31c50927ae2f37d2d.png)
 
@@ -248,12 +248,16 @@ Download
 
 > [__Chapter 2 - Discrimination, Diversity and Inclusion__](#16)
 > 
+> People have different characteristics in various social, biological, and psychological dimensions and act differently in their interactions with others. This can lead to discriminatory situations. Looking at the historical development of diversity as well as inclusion and their definitions (and at the problems involved in finding value-free descriptions of the phenomena) reveals that concepts and terms such as diversity, integration, and inclusion have shifted over time. Some researchers refer to a paradigm shift that has taken place in modern society.
+>
 > __Learning Goals__
 >
-> * You are able to define and describe diversity and inclusion and to delineate related concepts such as exclusion, segregation, and integration.
+> * You are able to provide basic definitions of diversity and inclusion and to delineate related concepts such as exclusion, separation, and integration.
 > * You are able to describe forms of discrimination.
 
 > [__Chapter 3 - Inclusion in Global Legal Foundations__](#20)
+>
+> With the help of global cooperation, international legal frameworks (e.g. the Universal Declaration of Human Rightshuman rights convention) and national ratificationrights (e.g. of the ratification of the UN Convention on the Rights of Persons with Disabilities (CRPD), in Germany in 2009) have been agreed over time to ensure that people can live together in societies without discrimination. Looking to the future, the UN Sustainable Development Goals (SDGs) highlight shared visions and common goals for fostering inclusion as a socio-political process and the well-being of all generations.
 >
 > __Learning Goal__
 > 
@@ -261,6 +265,8 @@ Download
 
 > [__Chapter 4 - Inclusive School Structures and Practices__](#24)
 >
+> Educational institutions should ensure that individuals (children, students, teachers, and other involved adults) are aware of global values and inclusive objectives so that they can put them into practice. To achieve this, social institutions need quality frameworks (e.g. multi-professional teams, team teaching, and integrative approaches in the school system)
+> 
 > __Learning Goals__
 > 
 > * You are able to specify what inclusive education means.
@@ -268,6 +274,8 @@ Download
 
 > [__Chapter 5 - Examples of Students´ Diversity in Inclusive Classrooms__](#31)
 >
+> Teachers must be able to respond to the different needs and requirements of each individual student. To achieve this, they must be sensitised to the various dimensions of diversity (social-cultural, biological-physical, and psycho-emotional). Furthermore, they must learn how to react in inclusive lessons, experiment with what makes quality inclusion possible, and engage in reflection with colleagues in the school context and other professionals.
+> 
 > __Learning Goals__
 > 
 > * You are able to describe the characteristics of student diversity in different dimensions.
@@ -276,6 +284,8 @@ Download
 > [__Chapter 6 - Final Quiz__](#41)
 
 > [__Chapter 7 - Unconscious Bias (Add-on)__](#42)
+> 
+> The human species benefits from a foundation of specific cognitive abilities. However, this also means that all individuals are influenced by unconscious biases that guide their thoughts and actions throughout their lives - including teachers expected to approach special educational needs or migration fairly.
 > 
 > __Learning Goals__
 >
@@ -291,39 +301,6 @@ Download
 > [__Author Credits and Contact Information__](#51)
 
 > [__Downloads__](#52)
-
-### Key Themes 
-
-Education is strongest when it embraces the diversity of individuals. Everyone should have equal educational opportunities. to participate in quality education. Inclusion could make this possible - but we need to consider the complexity of societies here.
-
-__Chapter 1__ 
-
-Social structures and global influences determine inclusion and inclusive education in our constantly evolving societies; this framework influences institutions and interactions and shapes the perceptions and identities of groups and individuals. With regard to the aims of inclusion and quality education, we should see the individual in the middle of society. Furthermore, we should look at the everyday interactions in our nearest socio-ecological environments and remind ourselves that thinking and acting in inclusive ways is everyone's responsibility.
-
-__Chapter 2__ 
-
-People have different characteristics in various social, biological, and psychological dimensions and act differently in their interactions with others. This can lead to discriminatory situations. Looking at the historical development of diversity as well as inclusion and their definitions (and at the problems involved in finding value-free descriptions of the phenomena) reveals that concepts and terms such as diversity, integration, and inclusion have shifted over time. Some researchers refer to a paradigm shift that has taken place in modern society.
-
-__Chapter 3__ 
-
-With the help of global cooperation, international legal frameworks (e.g. the Universal Declaration of Human Rightshuman rights convention) and national ratificationrights (e.g. of the ratification of the UN Convention on the Rights of Persons with Disabilities (CRPD), in Germany in 2009) have been agreed over time to ensure that people can live together in societies without discrimination. Looking to the future, the UN Sustainable Development Goals (SDGs) highlight shared visions and common goals for fostering inclusion as a socio-political process and the well-being of all generations.
-
-__Chapter 4__ 
-
-Educational institutions should ensure that individuals (children, students, teachers, and other involved adults) are aware of global values and inclusive objectives so that they can put them into practice. To achieve this, social institutions need quality frameworks (e.g. multi-professional teams, team teaching, and integrative approaches in the school system)
-
-__Chapter 5__ 
-
-Teachers must be able to respond to the different needs and requirements of each individual student. To achieve this, they must be sensitised to the various dimensions of diversity (social-cultural, biological-physical, and psycho-emotional). Furthermore, they must learn how to react in inclusive lessons, experiment with what makes quality inclusion possible, and engage in reflection with colleagues in the school context and other professionals.
-
-__Chapter 6__
-
-Final Quiz
-
-__Chapter 7 (Add-on)__
-
-The human species benefits from a foundation of specific cognitive abilities. However, this also means that all individuals are influenced by unconscious biases that guide their thoughts and actions throughout their lives - including teachers expected to approach special educational needs or migration fairly.
-
 
 ### Tune in: Keywords and Crossword
 
@@ -430,7 +407,7 @@ Our objectives in Arena 5 are centred around four key areas:
 
 One of the key foci that were adressed during EUniWell´s pilot phase (2019-2023) was the need for further professionalization of teaching,  especially for the future generations of teachers, in order to prepare them for the pressing environmental, technological, and social challenges they are facing on a national and international level. Therefore teacher training should provide and equip them with future skills like "sustainability, well-being, inclusion, and social cohesion." (Del Gobbo et al., 2023)[^2].
 
-In a first step, based on literature and on the survey comparison of professional standard frameworks per country, common professional standards for European teachers were defined in new competence areas, with the aim to establish a common framework for learning outcomes for European Teacher Education. This should lead, in a second step, to the definition of a transversal curriculum for European teachers.
+310
 
 <center>![Teacher Education Arenas Logical Framework](6bc7dc2ca1faf27fb016f3bb78f6f529e554db2f.png) Teacher Education Arenas Logical Framework, Del Gobbo et al. (2023)[^2]</center>
 <br>
@@ -485,9 +462,9 @@ Examples of Professional Standards and Related Professional Behaviours (Inclusio
 ## UNESCO Global Education Report on Inclusion and Education
 
 > "Education makes an essential contribution to building inclusive and democratic societies, where differences of opinion can be 
-> freely expressed and where the wide range of voices can be heard, in pursuit of social cohesion and in a celebration of diversity." [^1]
+> freely expressed and where the wide range of voices can be heard, in pursuit of social cohesion and in a celebration of diversity."
 >
-> --Right Honourable Helen Clark, Chair of the GEM Report Advisory Board, Former Prime Minister of New Zealand.
+> --Right Honourable Helen Clark, Chair of the GEM Report Advisory Board, Former Prime Minister of New Zealand. (2020)[^1]
 
 Inclusion and Education
 -------
@@ -500,7 +477,7 @@ This video provides an overview of how education that is not inclusive affects c
 
 <details>
 
-<summary>~~**Click here to show the Video Transcript**~~</summary>
+<summary>~~**Click here to show the video transcript**~~</summary>
 
 Intro:
 
@@ -589,11 +566,11 @@ We use Bronfenbrenner's socio-ecological model to illustrate the position of the
 
 [^2]:Fend, H. (2009). Neue Theorie der Schule. VS Verlag für Sozialwissenschaften. https://doi.org/10.1007/978-3-531-91788-7
 
-### 1.2 Bronfenbrenners Ecological Systems Theory
+### 1.2 Bronfenbrenner's Ecological Systems Theory
 
-Uri Bronfenbrenners Ecological Systems Theory posits that human development is influenced by the interactions between an individuals and their multiple _environmental systems_. (Bronfenbrenner 1977)[^1] These systems are nested within each other, each layer representing a different level of influence. 
+Uri Bronfenbrenner's Ecological Systems Theory posits that human development is influenced by the interactions between an individual and their environmental systems. (Bronfenbrenner 1977)[^1] These systems are nested within each other with each layer representing a different level of influence.
 
-Video: Bronfenbrenner´s Ecological Systems 
+Video: Bronfenbrenner's Ecological Systems 
 ---
 
 !?[](https://www.youtube.com/watch?v=g6pUQ4EDHeQ)
@@ -602,168 +579,113 @@ Video: Bronfenbrenner´s Ecological Systems
 
 <summary>~~**Click here to show the video transcript**~~</summary>
 
-In 1964, a young psychologist appeared before the US congress with a mission.
-It was a time when most people thought that the reason poor people stayed poor was a matter of biology 
-and had nothing to do with the environment they grew up in.
+In 1964, a young psychologist appeared before the US congress with a mission. It was a time when most people thought that the reason poor people stayed poor was a matter of biology and had nothing to do with the environment they grew up in. The psychologist, Uri Bronfenbrenner, wanted to change that and convince the world that to help those less fortunate, we also need to change their surroundings. But did he succeed?
 
-The psychologist, Uri Bronfenbrenner, wanted to change that and convince the world that to help those less fortunate, we also need to
-change their surroundings. But did he succeed?
+Bronfenbrenner's Ecological System Theory conceives that a child is influenced by five ecological forces. First comes the microsystem of family and friends that affect the child directly. Second are the forces of the connections between the people around the child:parents with teachers and teachers with peers. Then there are links between social settings that do not directly involve the child, such as the father with his boss, the peers with their parents and the teacher with the principal. 
 
-Bronfenbrenner's Ecological System Theory conceives that a child is influenced by five ecological forces.
+Next, is the overarching culture, religion and social norms that influences all others. And lastly, there is time - which changes everything over the course of one’s life. Children are born into a Microsystem that influences the child's experiences directly. Children from unfortunate backgrounds are more likely to experience problematic family structures -even if it’s simply for the fact that parenting is more difficult if you are poor. They also encounter more negative situations at school or bad influences through friends. Consequently, a child that grows up in a negative microsystem, will find it hard to succeed. 
 
-First comes the microsystem of family and friends that affect the child directly.
-Second are the forces of the connections between the people around the child:parents with teachers and teachers with peers.
+The Mesosystem represents the interconnections between the elements that surround the child. For example the relationship between the father and the school teachers. If the father doesn’t get along with a teacher, the child might suffer. 
 
-Then there are links between social settings that do not directly involve the child,such as the father with his boss,the peers with
-their parents and the teacher with the principal. 
+The EXOSYSTEM involves links between social settings that do not involve the child. For example, a child's experience at home can be influenced by their parent's experiences at work. If the mother loses her job, there might be more arguments with the father, resulting in changes in their interaction with the child.
 
-Next, is the overarching culture, religion and social norms that influences all others. 
-And lastly, there is time - which changes everything over the course of one’s life.
+The MACROSYSTEM describes the overarching culture that influences all other systems, such as a child’s geographic location and ethnicity. Intelligent people who happen to live in bad places are more likely to move to better ones.
+But that also means that they are more likely to be strangers in a richer society. So regardless of the child’s biological potential or upbringing, on a macro level he or she may still be at a disadvantage.
 
-Children are born into a Microsystem that influences the child's experiences directly.
-
-Children from unfortunate backgrounds are more likely to experience problematic family structures 
--even if it’s simply for the fact that parenting is more difficult if you are poor.
-
-They also encounter more negative situations at school or bad influences through friends.
-
-Consequently, a child that grows up in a negative microsystem,will find it hard to succeed. 
-
-The Mesosystem represents the interconnections between the elements that surround the child. 
-For example the relationship between the father and the school teachers.
-
-If the father doesn’t get along with a teacher,the child might suffer.
-
-The EXOSYSTEM involves links between social settings that do not involve the child.
-
-For example, a child's experience at home can be influenced by their parent's experiences at work.
-
-If the mother loses her job, there might be more arguments with the father,resulting in changes in their interaction with the child.
-
-The MACROSYSTEMdescribes the overarching culture that influences all other systems,such as a child’s geographic location and ethnicity.
-
-Intelligent people who happen to live in bad places are more likely to move to better ones.
-
-But that also means that they are more likely to be strangers in a richer society.
-
-So regardless of the child’s biological potential or upbringing, on a macro level he or she may still be at a disadvantage.
-
-The CHRONOSYSTEM,refers to changes in the child,and the environment over time.
-
-As the child grows up the parents may stop loving each other and divorce, which can be traumatic for an eight year old boy.Five years later,
-he may have come to terms with how things turned out.But when the boy turns 16, his mom’s new boyfriend moves into their tiny 
+The CHRONOSYSTEM,refers to changes in the child, and the environment over time. As the child grows up the parents may stop loving each other and divorce, which can be traumatic for an eight year old boy. Five years later, he may have come to terms with how things turned out. But when the boy turns 16, his mom’s new boyfriend moves into their tiny 
 apartment, and things get difficult again.
 
-Bronfenbrenner, who was influenced by Lev Vygotsky and Kurt Lewin, convinced the US congress that a child’s prospect is not
-genetically predestined,but is the result of the larger environment they happen to be placed in.
+Bronfenbrenner, who was influenced by Lev Vygotsky and Kurt Lewin, convinced the US congress that a child’s prospect is not genetically predestined, but is the result of the larger environment they happen to be placed in. Children who grow up in unfortunate social structures therefore need a form of support that not only reaches their families, but also elements of their community. Bronfenbrenner's theory helped form the Head Start program in 1965, a government program that has served more than 35 million poor children since. 
 
-Children who grow up in unfortunate social structures therefore need a form of support that not only reaches their families,but also
-elements of their community. 
+Decades later, Bronfenbrenner and Stephen Ceciproposed an extension of this theory, called the "bioecological model". This new model recognizes gene–environment interactions and acknowledges the role of heritability, but adds that genes themselve are under the influence of the environment. In other words, the process of heritability varies in a magnitude of potentials. How much a child can make of the potential they inherit, depends on the ecological environment.
 
-Bronfenbrenner's theory helped form the Head Start program in 1965,a government program that has served more than 35 million poor children since. 
+Bronfenbrenner made a critical contribution to our realization that parent-child relationships do not exist in a social vacuum but are embedded in the larger structures, such as community, society, and culture. In order to develop well, he allegedly said, “every child needs at least one adult who is irrationally crazy about him or her.” 
 
-Decades later, Bronfenbrenner and Stephen Ceciproposed an extension of this theory, called the "bioecological model".
-
-This new model recognizes gene–environment interactions and acknowledges the role of heritability, but adds that genes themselve are under the
-influence of the environment.
-
-In other words, the process of heritability varies in a magnitude of potentials.
-
-How much a child can make of the potential they inherit,depends on the ecological environment.
-
-Bronfenbrenner made a critical contribution to our realization that parent-child relationships do not exist in a social vacuum but are embedded
-in the larger structures, such as community, society, and culture.
-
-In order to develop well, he allegedly said, “every child needs at least one adult who is irrationally crazy about him or her.”
-
-Now it’s your turn,make five circles, draw yourself in the center and add a timeline at the bottom. Then add all the people, institutions and forces that affect your life.
-
-On the timeline below you can add some major events from the past and those you expect in the future.
-
-Can you tell how the 5 forces are shaping your life?
+Now it’s your turn, make five circles, draw yourself in the center and add a timeline at the bottom. Then add all the people, institutions and forces that affect your life. On the timeline below you can add some major events from the past and those you expect in the future. Can you tell how the 5 forces are shaping your life?
 
 </details>
 
 ---
 
+The Ecosystemic Development Model
+---
+
+<center>![Bronfenbrenners Ecological System Model](bronfenbrenner-model.png)The Ecosystemic Development Model according to Epp (2017)[^3] translated from German</center>
+<br>
+
 Microsystem
 -----
-"The _microsystem_ encompasses all those factors that are attributed to an individual and their  actions by another individual, i.e. certain external characteristics, abilities, etc. These are personal influencing variables that are localised in the individual (Seifert 2011, S.115f.)" quoted from Epp (2017)[^2]. 
+"The microsystem encompasses all those factors that are attributed to an individual and their  actions by another individual, i.e. certain external characteristics, abilities, etc. These are personal influencing variables that are localised in the individual (Seifert, 2011, p.115f.)" quoted from Epp (2017)[^3]. 
 
 Mesosystem
 -----
-"The _mesosystem_ "comprises the interrelationships between the areas of life in which the developing person is actively involved (for a child, for example, the relationship between home, school and group of mates; for an adult, the relationship between family, work and circle of acquaintances)" (Bronfenbrenner 1981, p.41). Accordingly, the various life contexts in which an individual moves belong to the mesosystem (Seifert 2011, S.118)" quoted from Epp (2017)[^2].
+The mesosystem "comprises the interrelationships between the areas of life in which the developing person is actively involved (for a child, for example, the relationship between home, school and group of mates; for an adult, the relationship between family, work and circle of acquaintances)" (Bronfenbrenner 1981, p.41)[^2]. Accordingly, the various life contexts in which an individual moves belong to the mesosystem (Seifert, 2011, S.118)" quoted from Epp (2017)[^2].
 
-Exeosystem
+Exosystem
 -----
-"An _exosystem_ is understood to be areas "in which the developing person is not personally involved, but in which events take place that influence or are influenced by what happens in their area of life" (Bronfenbrenner 1981, p.42). This includes formal and informal social structures, [...] This includes the larger institutions of society - not only those that are systematically structured, but also those that arise spontaneously - and how these unfold at the concrete local level (Bronfenbrenner 1978,S.36)" quoted from Epp (2017)[^2].
+"An exosystem is understood as the areas "in which the developing person is not personally involved, but in which events take place that influence or are influenced by what happens in their area of life" (Bronfenbrenner 1981, p.42)[^2]. This includes formal and informal social structures, [...] This includes the larger institutions of society - not only those that are systematically structured, but also those that arise spontaneously - and how these unfold at the concrete local level (Bronfenbrenner, 1978,S.36)" quoted from Epp (2017)[^3].
 
-Makrosystem
+Macrosystem
 ---
-"The concept of the _macrosystem_ "refers to the fundamental similarity in form and content of the lower-order systems (micro-, meso- and exo-) that exist or could exist in the subculture or the entire culture, including their underlying worldviews and ideologies" (Bronfenbrenner 1981, p.42). [...] which permeate society as a whole. This includes, for example, political, economic, social, legal or educational patterns (Bronfenbrenner 1978, p.36)". quoted from Epp (2017)[^2]
-
-![The ecosystemic development model](https://euniwell.de.cool/wp-content/uploads/liascript/images/bronfenbrenner-epp.png "The ecosystemic development model according to Epp (2017)[^2] - translated from German")
-
+"The concept of the macrosystem "refers to the fundamental similarity in form and content of the lower-order systems (micro-, meso- and exo-) that exist or could exist in the subculture or the entire culture, including their underlying worldviews and ideologies" (Bronfenbrenner 1981, p.42)[^2]. [...] which permeate society as a whole. This includes, for example, political, economic, social, legal or educational patterns (Bronfenbrenner, 1978, p.36)". quoted from Epp (2017)[^3]
 
 By understanding these layers of influence, educators can be sensitised to create more inclusive and diverse educational environments.
 
 
-Now it´s your turn
+Now it´s Your Turn
 -------
-Paint the Bronfenbrenners ecosystem circles and draw yourself in the center. Fill in the circles reflecting on the following questions.
+Draw Bronfenbrenner's ecosystem circles and place yourself at their centre. Reflect on the following questions as you fill in the circles.
 
-<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=31" width="958" height="276" frameborder="0" allowfullscreen="allowfullscreen" title="Questions for Bronfenbrenner"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+* Which factors influence your individual microsystem?
+* Which interrelationships does your mesosystem comprise?
+* Name the events, formal / informal social structures influence your current life.
+* Name the political, legal, economic or educational patterns and ideologies wich influence your current life.
 
 ---
 
-In the next section
+What You Will Find in the Next Section
 -------
 
-Given the interactions and influence of individual thought structures in relation to inclusion in this complex framework, we will consider the level of interaction between two individuals. The theory of sysmbolic interactionism will help us to understand how new meanings and thought structures can emerge from interactions.
+Given the interactions and influence of individual thought structures and inclusion in this complex framework, we will consider interaction between two individuals at different levels. The theory of symbolic interactionism will help us to understand how new meanings and thought structures can emerge from interactions.
 
 ---
 
 [^1]:Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. The American Psychologist, 32(7), 513–531. https://doi.org/10.1037/0003-066x.32.7.513
 
-[^2]: Epp, A. (2017). Bronfenbrenner’s Ecological Systems Theory as a Sensitization and Examination Pattern for Empirical Analyses. Forum Qualitative Sozialforschung Forum: Qualitative Social Research, 19(1). https://doi.org/10.17169/fqs-19.1.2725
+[^2]: Bronfenbrenner, U. (1981). Die Ökologie der menschlichen Entwicklung: natürliche und geplante Experimente. Klett-Cotta.
+
+[^3]: Epp, A. (2017). Bronfenbrenner’s Ecological Systems Theory as a Sensitization and Examination Pattern for Empirical Analyses. Forum Qualitative Sozialforschung Forum: Qualitative Social Research, 19(1). https://doi.org/10.17169/fqs-19.1.2725
 
 ### 1.3 Symbolic Interactionism Theory
 
-In his symbolic interactionism theory Mead (1986)[^1] distinguishes three concepts of the individual: I, ME & SELF.
+George Herbert Mead (1934)[^1] distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
 
-* __I__
+<center>![Individuum: I, Me & Self., own illustration](mead-i-me-self.png)Individuum: I, ME & SELF. Illustration by project team.</center>
+<br>
 
-   Mead understands the "I" as a psychological component. This is where people's creative and impulsive emotions and actions occur. 
+* The __"I"__ is the psychological component. This is where people's creative and impulsive emotions and actions occur.
 
-* __ME__
+* The __"Me"__ is the social component and the objective part of a person. It is shaped by the respective society and comes into conflict with external expectations and other people's attitudes.
 
-  The "Me" is the social component and the objective part of the person. It is shaped by the respective society and comes into conflict with external expectations and attitudes of other people.
+* The __"Self"__ arises from the interaction between "Me" and "I" and develops from processes of experience and development. The Self is not a fixed construct and continues to develop in the process. The Self reflects a person's self-perception and self-image.
 
-* __SELF__
-  
-  The "Self" arises from the interaction between Me and I and develops from processes of experience and development. 
-  
-  The Self is not a fixed construct and continues to develop in the process.
+Based on the descriptions and theoretical considerations above, we can deduce that inclusive attitudes and the sense of belonging they create are also ongoing social-systemic and individual developments. In social interactions, we can actively shape inclusion and reflect on our own inclusive attitude.
 
-  The Self reflects a person's self-perception and self-image.
+The following model, based on the idea of symbolic interactionism theory (Mead, 1934[^1]; see also Joas, 1989[^2]; Helle, 2001[^3]:) shows how inclusion can arise from social interactions and result in an individual attitude.
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/i-me-self.png "Individuum: I, ME & SELF., own illustration")
+<center>![Individuals´ interactions. Illustration](inclusive-attitudes.png)Individuals´ interactions. Illustration by project team.</center>
+<br>
 
-Based on the descriptions and theoretical considerations, we can deduce that _inclusive attitudes_ and the _sense of belonging_ they create are also ongoing social-systemic and individual developments. In social interactions, we can actively shape inclusion and reflect on our own inclusive attitude.
-
-The following model, based on the idea of symbolic interactionism theory (Mead,1986 see also Joas,1989;Helle,2001)[^1] shows how inclusion can arise from social interactions and result in an individual attitude.
-
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/inclusive-attitudes.png "Individuals´ interaction, own illustration.")
-
-
-In the next section
+What You Will Find in the Next Section
 ---------
-In the following you can test your acquired knowledge.
+You can test your acquired knowledge below.
 
----
 
-[^1]: Mead, George H. (1968 [1934]). Geist, Identität und Gesellschaft: aus der Sicht des Sozialbehaviorismus (Ed. Ch.W. Morris). Berlin: Suhrkamp. / Joas, Hans (1989). Intersubjektivität – Die Entwicklung des Werkes von G. H. Mead. Berlin: Suhrkamp. / Helle, Horst J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher. 
+[^1]: Mead, G. H. (1934). Mind, self and society from the standpoint of a social behaviorist. University of Chicago Press. https://www.ssoar.info/ssoar/handle/document/50777
+
+[^2]: Joas, Hans (1989). Intersubjektivität – Die Entwicklung des Werkes von G. H. Mead. Berlin: Suhrkamp. 
+
+[^3]: Helle, Horst J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher. 
 
 
 ###	1.4 Summary Quiz
@@ -775,14 +697,15 @@ In the following you can test your acquired knowledge.
 
 ## 2. Discrimination, Diversity and Inclusion
 
+![discrimination, diversity and inclusion](discrimination-inclusion.png)
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/flux.png)
+This chapter looks at the definitions of diversity and inclusion.
 
-This chapter looks at the definitions of diversity and inclusion. From a social-historical perspective, we take a closer look at conceptual changes and differences of _exclusion_, _separation_, _integration_, and inclusion in education. With regard to actual recognition of diversity, we also take a closer look on the term _discrimination_ as the opposite of inclusion.
+We take a close look at conceptual changes and differences between exclusion, separation, integration, and inclusion in education from a social-historical perspective. We also delve into the term discrimination - as the opposite of inclusion - because of its relevance for recognising diversity.
 
-> __Learning Goal__
+> __Learning Goals__
 >
-> * You are able describe basic definitions of "diversity", „inclusion“ and to deliniate related concepts such as exclusion, separation and integration.
+> * You are able to provide basic definitions of diversity and inclusion and to delineate related concepts such as exclusion, separation, and integration.
 > * You are able to describe forms of discrimination.
 
 ### 2.1 Definitions
@@ -856,21 +779,42 @@ These articles provide a value-free definition of diversity on the one hand and 
 [^4]: Stichweh, R. (2007). Inklusion und Exklusion in der Weltgesellschaft – Am Beispiel der Schule und des Erziehungssystems. In J. Aderhold & O. Kranz (Eds.), Intention und Funktion (pp. 113-120). VS. https://doi.org/10.1007/978-3-531-90627-0_5
 
 
-### 2.2 Exclusion, Separation, Integration & Inclusion in Education
+### 2.2 Exclusion, Segregation, Integration and Inclusion in Education
 
-<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=23" width="958" height="604" frameborder="0" allowfullscreen="allowfullscreen" title="UN-CRPD Extinction, Exclusion, Separation, Integration, Inclusion"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+In the following we present the "model of quality levels of disability policy and disability education" according to Wocken (2009).[^1]
 
-Source [^1]
+"The model of quality levels should not be interpreted as historical development phases or even as logical sequences. Instead, the quality levels refer to a value hierarchy of increasingly higher-value human rights and forms of recognition." (Grosche, 2015)[^2]
 
-Kuhzl in 2015 umwadneln
+Model of Quality Levels of Disability Policy and Disability Education
+---
 
-In the next section
+| Level and Description  | Illustration [^4] | 
+| :------- | :------: | 
+| Level 0 - __Extinction__ <br><br> "Extinction occurred, for example, during the Nazi era in Germany, when people with disabilities were systematically murdered." (Grosche, 2015)[^1]     |   ![Extinction](0extinction.png)   | 
+
+|  |  | 
+| Level 1 - __Exclusion__ <br><br> "Exclusion occurs when students are directly or indirectly prevented from or denied access to education in any form." (UN-CRPD, 2016)[^3]     |   ![Exclusion](1exclusion.png)   | 
+
+|  |  | 
+| Level 2 - __Segregation__ <br><br> "Segregation occurs when the education of students with disabilities is provided in separate environments designed or used to respond to a particular or various impairments, in isolation from students without disabilities." (UN-CRPD, 2016)[^3]     |   ![Segregation](2segregation.png)   | 
+
+|  |  | 
+| Level 3 - __Integration__ <br><br> "Integration is a process of placing persons with disabilities in existingmainstream educational institutions, as long as the former can adjust to the standardized requirements of such institutions." (UN-CRPD, 2016)[^3]     |   ![Integration](3integration.png)   | 
+
+|  |  | 
+| Level 4 - __Inclusion__ <br><br> "IInclusion involves a process of systemic reform embodying changes and modifications in content, teaching methods, approaches, structures and strategies in education to overcome barriers with a vision serving to provide all students of the relevant age range with an equitable and participatory learning experience and environment that best corresponds to their requirements and preferences." (UN-CRPD, 2016)[^3]     |   ![Inclusion](4inclusion.png)   | 
+
+What You Will Find in the Next Section
 --------
-We want to invite you to reflect about discrimination.
+We will invite you to reflect on discrimination.
 
+[^1]: Wocken, H. (2009). Inklusion & Integration. Ein Versuch, die Integration vor der Abwertung und die Inklusion vor Träumereien zu bewahren. In Integration und Inklusion auf dem Wege ins Gemeinwesen (pp. 204–234). A.-D. Stein, I. Niediek, & S. Krach. https://inklusion20.de/material/inklusion/Inklusion%20vs%20Integration_Wocken.pdf
 
+[^2]: Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur Defi nition von Inklusion aus Sicht der empirischen Bildungsforschung. In P. Kuhl, P. Stanat, B. Lütje-Klose, C. Gresch, H. A. Pant, & M. Prenzel (Eds.), Inklusion von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen (pp. 17–39). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-06604-8
 
-[^1]: Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur Defi nition von Inklusion aus Sicht der empirischen Bildungsforschung. In P. Kuhl, P. Stanat, B. Lütje-Klose, C. Gresch, H. A. Pant, & M. Prenzel (Eds.), Inklusion von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen (pp. 17–39). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-06604-8
+[^3]: UN-CRPD (Committee on the Rights of Persons with Disabilities). (2016) General comment No. 4 on the right to inclusive education. Convention on the Rights of Persons with Disabilities. https://documents.un.org/doc/undoc/gen/g16/263/00/pdf/g1626300.pdf 
+
+[^4]: Original illustration by Robert Ähnelt (CC-BY-SA 3.0 DE) modified by Michael Kowalczyk (CC-BY-SA 4.0 DE)
 
 
 
@@ -2178,7 +2122,9 @@ Bezrukova, K., Spell, C. S., Perry, J. L., & Jehn, K. A. (2016). A meta-analytic
 
 Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. The American Psychologist, 32(7), 513–531. https://doi.org/10.1037/0003-066x.32.7.513
 
-Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press.
+Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press. https://doi.org/10.2307/j.ctv26071r6
+
+Bronfenbrenner, U. (1981). Die Ökologie der menschlichen Entwicklung: natürliche und geplante Experimente. Klett-Cotta.
 
 Brüderl, J. (2019). Vorlesung Sozialstrukturanalyse. https://www.ls3.soziologie.uni-muenchen.de/studium-lehre/lehrmaterialien/ws-2019-2020/vorlesung-sozialstruktur_19.pdf
 
@@ -2228,7 +2174,7 @@ Hans, H. (1989). Intersubjektivität - Die Entwicklung des Werkes von G. Suhrkam
 
 Hattie, J. (2012). Visible learning for teachers. Routledge. https://doi.org/10.4324/9780203181522
 
-Helle, H. J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie.
+Helle, H. J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher.
 
 Jurkowski, S., Ulrich, M., & Müller, B. (2023). Co-teaching as a resource for inclusive classes: teachers’ perspectives on conditions for successful collaboration. International Journal of Inclusive Education, 27(1), 54–71. https://doi.org/10.1080/13603116.2020.1821449
 
@@ -2274,6 +2220,8 @@ Taylor, D. M., & Doria, J. R. (1981). Self-serving and group-serving bias in att
 
 Thomas, G. (2013). A review of thinking and research about inclusive education policy, with suggestions for a new kind of inclusive thinking. British Educational Research Journal, 39(3), 473–490. https://doi.org/10.1080/01411926.2011.652070
 
+UN-CRPD (Committee on the Rights of Persons with Disabilities). (2016). General comment No. 4 on the right to inclusive education. Convention on the Rights of Persons with Disabilities. https://documents.un.org/doc/undoc/gen/g16/263/00/pdf/g1626300.pdf
+
 UNESCO Global Education Monitoring Report Team, International Task Force on Teachers for Education. (2020). Inclusive teaching: preparing all teachers to teach all students. https://unesdoc.unesco.org/ark:/48223/pf0000374447
 
 UNESCO. (2020). Global Education Monitoring Report 2020: Inclusion and education: All means all. Paris. UNESCO. https://doi.org/10.54676/jjnk6989
@@ -2292,7 +2240,7 @@ Waack, S. (n.d.). Hattie effect size list - 256 Influences Related To Achievemen
 
 Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, Heterogenität, Diversity / Diversität, Intersektionalität. Verlag Julius Klinkhardt. https://doi.org/10.25656/01:22247
 
-
+Wocken, H. (2009). Inklusion & Integration. Ein Versuch, die Integration vor der Abwertung und die Inklusion vor Träumereien zu bewahren. In Integration und Inklusion auf dem Wege ins Gemeinwesen (pp. 204–234). A.-D. Stein, I. Niediek, & S. Krach. https://inklusion20.de/material/inklusion/Inklusion%20vs%20Integration_Wocken.pdf
 
 
 ## Author Credits and Contact Information

@@ -117,7 +117,7 @@ fetch('@1')
 
 # EUniWell OER self-study module _Diversity & Inclusion in Education_ (Pre-Final)
 
-![Path](d4b91a49393010ddcb82917307b4545165404108.png)
+![Path](path.png)
 
 > "People who want inclusion look for ways to make it happen, and people who don't want it look for rationalizations."
 >
@@ -125,15 +125,15 @@ fetch('@1')
 
 ---
 
-<center>![EUniWell Logo 600px](fcd26efb0c7e9ee0fc94acd9950ef051f61eb024.png)</center>
+<center>![EUniWell Logo 600px](euniwell-logo.png)</center>
 
 ---
 
-<center>![Open Educational Resources Logo 400px](5f82bcc0432dc534d4ef6221e42d6da6f3ca5abb.png)</center>
+<center>![Open Educational Resources Logo 400px](oer-logo.png)</center>
 
 ---
 
-<center>![CC-BY-SA Logo](6488c4c276be65038e169dd344ebd104989e611d.png)</center>
+<center>![CC-BY-SA Logo](CC-BY-SA-big.png)</center>
 
 ---
 
@@ -187,6 +187,8 @@ Feedback
 ---------
 We are committed to continuous improvement and welcome [anonymous feedback](https://padlet.com/teacheredueuniwell/public-feedback-for-euniwell-oer-diversity-inclusion-t9twf0p8n7gd2wo3) on our public feedback wall to discuss and enhance the content quality and accessibility of the OER.
 
+
+
 Authors
 --------
 
@@ -214,7 +216,7 @@ Creative Commons License
 
 The OER self-study module _Diversity and Inclusion in Education_ of the European University for Well-Being is licensed under CC BY-SA 4.0 International.
 
-![CC-BY-SA-150px](5fbe7b9e9f35632164db2917a52dcdf5ce4c8136.png)
+![CC-BY-SA-150px](CC-BY-SA-small.png)
 
 Sharing and further processing is expressly permitted subject to the conditions of attribution, non-commercial use, and distribution under the same license conditions.
 
@@ -228,7 +230,7 @@ Download
 
 ### Chapters, Key Themes and Learning Goals
 
-![Chapters](8fdfcda3337077656fb061a31c50927ae2f37d2d.png)
+![Chapters](chapters.png)
 
 > [__About this OER__](#2)
 
@@ -306,7 +308,7 @@ Download
 
 Fill in the crossword using terms from the word cloud.
 
-<center>![Crossword](6a4f268f21956c4b8f8bce75420772e09e4a9321.png)</center>
+<center>![Crossword](crosswords.png)</center>
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=25" width="958" height="716" frameborder="0" allowfullscreen="allowfullscreen" title="Crossword"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -315,7 +317,7 @@ Fill in the crossword using terms from the word cloud.
 
 The European University for Well-Being (EUniWell) is a joint project funded by the European Union. EUniWell unites [eleven European universities](https://www.euniwell.eu/about/universities) with the aim of improving the well-being and quality of life of European citizens.
 
-<center>![EUniWell Logo 600px](fcd26efb0c7e9ee0fc94acd9950ef051f61eb024.png)</center>
+<center>![EUniWell Logo 600px](euniwell-logo.png)</center>
 
 Why Well-Being?
 ---
@@ -353,7 +355,7 @@ EUniWell's five thematic arenas enable a multifaceted and multicultural approach
 
 ### Teacher Education and Well-Being
 
-![Teacher Education](589bb7000e371e9906249dba9a52d00930c50c9b.jpg)
+![Teacher Education](teacher-education.jpg)
 
 > “We will thus demonstrate that diversity, inclusion, and co-creation do not come at the expense of research excellence, but actually drive and accelerate it, enable equity and enhance universal well-being." 
 >
@@ -407,9 +409,7 @@ Our objectives in Arena 5 are centred around four key areas:
 
 One of the key foci that were adressed during EUniWell´s pilot phase (2019-2023) was the need for further professionalization of teaching,  especially for the future generations of teachers, in order to prepare them for the pressing environmental, technological, and social challenges they are facing on a national and international level. Therefore teacher training should provide and equip them with future skills like "sustainability, well-being, inclusion, and social cohesion." (Del Gobbo et al., 2023)[^2].
 
-310
-
-<center>![Teacher Education Arenas Logical Framework](6bc7dc2ca1faf27fb016f3bb78f6f529e554db2f.png) Teacher Education Arenas Logical Framework, Del Gobbo et al. (2023)[^2]</center>
+<center>![Teacher Education Arenas Logical Framework](teacher-education-arenas-framework.png) Teacher Education Arenas Logical Framework, Del Gobbo et al. (2023)[^2]</center>
 <br>
 
 The new competence areas for teachers' professionalization were defined as:
@@ -508,7 +508,7 @@ The next chapter outlines the underlying social structures that influence the de
 
 ## 1. Systems Theory Perspectives
 
-![Theory Lecture](d0855f7569cb6b14f58a621ca2df352bd2b07792.png)
+![Theory Lecture](theories.png)
 
 To help you to gain a broader and deeper understanding of the central topics of diversity and inclusion and of wider social facts and processes, we will begin with a look at selected theories and models from the educational and social sciences.References to school theory are highlighted and specific examples of teacher professionalisation are explained.
 
@@ -525,7 +525,7 @@ Early sociologists assume certain universal functional requirements in societies
 
 It forms the basis of school theory and depicts three major systems of society in abstract terms. The decisive factors here are the interrelationships and the fact that school is located as an institution in the Eeducation system that dependsing on the politicsal and economic systems.
 
-<center>![Global Organisations and Systems](9d7fc7ffa434c017de67ef5df1028cf0633d4358.png) Global Organisations and Systems, own illustration based on Fend (2009) p.36 [^2]</center>
+<center>![Global Organisations and Systems](global-systems.png) Global Organisations and Systems, own illustration based on Fend (2009) p.36 [^2]</center>
 <br>
 
 The model shows that the socialisation order of a society can be characterised by the three subsystems of politics, economics and education.
@@ -549,7 +549,7 @@ Inclusion as a Special Phenomenon in Current Society
 
 Let us imagine inclusion at the centre of this social systems model.
 
-<center>![Inclusion in the Center of Social Systems](532d6c4d7706b6c5685e028a77b44b02da5da557.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]</center>
+<center>![Inclusion in the Center of Social Systems](global-systems-inclusion.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]</center>
 <br>
 
 
@@ -710,73 +710,67 @@ We take a close look at conceptual changes and differences between exclusion, se
 
 ### 2.1 Definitions
 
-The ethymological origin of discriminate is in Latin "discriminare" and means, to distinguish, separate, segregate.
 
-Discrimination takes place in many areas of everyday life: Housing, education, the employment system, health and social services, policing, the administration of justice, representation in the media and political participation. In social science and political discussion, discrimination refers to disadvantages identified on the basis of group-specific differences in accordance with the principles of equality and equal treatment. 
-
-> __A Definition of Discrimination__
->
-> "treating a person or particular group of people differently, especially in a worse way from the way in which you treat other people, because of their race, gender, sexuality, etc."[^1]
-
-Further examples are religion, political beliefs, age, health and gender identity. Catalogs of characteristics are open-ended. [^2]
-
-Forms of discrimination
+Discrimination
 ---
-* Direct discrimination
-* Indirect discrimination
-* Harassment
-* Bullying
-* (Multiple discrimination or multidimensional discrimination)
-* Intersectional deiscrimination
 
-Following the definition, we would like to add that since the UN Convention, "people with disabilities" should be explicitly added to dictionary contributions. Age could also be recorded; the relevance is reflected, for example, in the educational science discussion of children's rights and in the debate about when young people are allowed to vote politically. People in nursing homes also often experience discrimination.
+The ethymological origin of discriminate is in Latin "discriminatus, past participle of discriminare 'to divide, separate, from discrimen'" (Harper, n.d.)[^1] 
 
-> Please, think about your own biographie and current life remembering: Where have I experienced discrimination myself in my childhood as a student?
+> __Definition of Discrimination__
+>
+> "treating a person or particular group of people differently, especially in a worse way from the way in which you treat other people, because of their race, gender, sexuality, etc." (Cambridge University Press, n.d.)[^2]
 
-Is there any current situation in my social or physical environment where I meet discrimination in the narrow or broad sense? Feel free to note your own definition of discrimination according to the current situation - even if it is not you who is affected, but another person in your environment.
+Further examples are religion, political beliefs, age, health and gender identity. Catalogs of characteristics are open-ended. (Gomolla, 2008)[^3]
 
-[^1]: https://dictionary.cambridge.org/dictionary/english/discrimination
-[^2]: https://heimatkunde.boell.de/de/2008/02/18/institutionelle-diskriminierung-im-bildungs-und-erziehungssystem-theorie
+Following the definition, we would like to add that "people with disabilities" should expressly be added to definitions since the UN Convention on the Rights of Persons with Disabilities. Age could also be registered as a characteristic that merits protection; its relevance is reflected, for example, in the educational science discussion of children's rights and in the debate about the age at which young people receive the right to vote.
 
+__Discrimination takes place in many areas of everyday life:__ Housing, education, the employment system, health and social services, policing, the administration of justice, representation in the media and political participation. In social science and political discussion, discrimination refers to disadvantages identified on the basis of group-specific differences in accordance with the principles of equality and equal treatment.
 
-The current concepts are subject to the current problem that there is no standardised definition. Due to the orientation of this OER, we are working on the following book chapters / articles: 
+__Take a moment to think about your own biography and your current life memories:__ Where did I experience discrimination myself in my childhood or as a student? Is there any current situation in my social or physical environment where I am confronted with discrimination in a narrow or wider sense? Feel free to record your own definition of discrimination with reference to this current situation - even if the person affected is not you but another person in your environment.
 
-* Walgenbach (2021)[^1] and Bührmann (2018)[^2] for the term of diversity.
-* Cramer and Harant (2014)[^3] and Stichweh (2007)[^4] for the term of inclusion.
+----
 
-These articles provide a value-free definition of diversity on the one hand and a sociological definition of inclusion on the other.
+Diversity and Inclusion
+---
+
+The concepts as currently used are affected by the problem that their definitions have not yet been standardised. We have chosen to work with the definitions from the following book chapters and articles for the purposes of this course:
+
+* We refer to Walgenbach (2021)[^4] and Bührmann (2018)[^5] to define diversity.
+
+* We refer to Cramer and Harant (2014)[^6] and Stichweh (2007)[^7] to define inclusion.
+
+These sources provide a value-free definition of diversity and a sociological definition of inclusion.
 
 > __Definition of Diversity__
 >
-> We define diversity as social fact that reflects the variety and difference of
-> individuals in a society. The variety and difference is reflected on three levels. 
-> __1.__ social, __2.__ biological, __3.__ psychological-emotional.
+> We define diversity as a social fact that reflects the variety and the differences between individuals in a society. This variety and these differences are reflected on three levels. 1. social, 2. biological, 3 psychological-emotional.
 
 > __Definition of Inclusion__
 >
-> Stichweh (2007, p. 113)[^4] distinguishes between three contexts of origin:
+> Stichweh (2007, p. 113)[^7] distinguishes between three contexts in which definitions of inclusion originated:
 >
-> __1.__ _Sociological systems theory_ - this speaks of inclusion and exclusion by 
-> analysing the form of participation and consideration of people in social systems. 
+> __1. Sociological systems theory__ - this approach identifies __inclusion and exclusion__ by analysing the forms in which people participate in and are considered by social systems. 
 >
-> __2.__ _French social theory_, which since Durkheim has almost united the concept of 
-> inclusion with that of solidarity in a society. Inclusion and exclusion then 
-> signify the success or failure of solidarity. 
+> __2. French social theory__, which since Durkheim has seen the concepts of __inclusion and solidarity__ in society as almost identical. In this context, the degree of inclusion or exclusion which is identified as signals that society has succeeded or failed.
 >
-> __3.__ _British welfare state theory_, which 
-> conceptualises the communicative consideration of people in social systems as 
-> membership according to the _paradigm of citizenship_.
+> __3. British welfare state theory__, with its use of the paradigm of citizenship to conceptualise the communicative consideration of people in social systems as membership.
 
 ---
 
 
+[^1]: Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/discriminate
 
+[^2]: Cambridge University Press. (n.d.). Meaning of discrimination in English. Cambridge Dictionary. Retrieved November 24, 2024, from https://dictionary.cambridge.org/dictionary/english/discrimination
 
+[^3]: Gomolla, M. (2008, February 18). Institutionelle Diskriminierung im Bildungs- und Erziehungssystem: Theorie, Forschungsergebnisse und Handlungsperspektiven. Heinrich Böll Stiftung. https://heimatkunde.boell.de/de/2008/02/18/institutionelle-diskriminierung-im-bildungs-und-erziehungssystem-theorie
 
-[^1]: Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, Heterogenität, Diversity / Diversität, Intersektionalität. Verlag Julius Klinkhardt. https://doi.org/10.25656/01:22247
-[^2]: Bührmann, A. D. (2018). Diversität. socialnet Lexikon [last access: 26.09.2024]. https://www.socialnet.de/lexikon/6324
-[^3]: Cramer, C., & Harant, M. (2014). Inklusion – Interdisziplinäre Kritik und Perspektiven von Begriff und Gegenstand. Zeitschrift fur Erziehungswissenschaft: ZfE, 17(4), 639–659. https://doi.org/10.1007/s11618-014-0584-4
-[^4]: Stichweh, R. (2007). Inklusion und Exklusion in der Weltgesellschaft – Am Beispiel der Schule und des Erziehungssystems. In J. Aderhold & O. Kranz (Eds.), Intention und Funktion (pp. 113-120). VS. https://doi.org/10.1007/978-3-531-90627-0_5
+[^4]: Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, Heterogenität, Diversity / Diversität, Intersektionalität. Verlag Julius Klinkhardt. https://doi.org/10.25656/01:22247
+
+[^5]: Bührmann, A. D. (2018). Diversität. socialnet Lexikon [last access: 26.09.2024]. https://www.socialnet.de/lexikon/6324
+
+[^6]: Cramer, C., & Harant, M. (2014). Inklusion – Interdisziplinäre Kritik und Perspektiven von Begriff und Gegenstand. Zeitschrift fur Erziehungswissenschaft: ZfE, 17(4), 639–659. https://doi.org/10.1007/s11618-014-0584-4
+
+[^7]: Stichweh, R. (2007). Inklusion und Exklusion in der Weltgesellschaft – Am Beispiel der Schule und des Erziehungssystems. In J. Aderhold & O. Kranz (Eds.), Intention und Funktion (pp. 113-120). VS. https://doi.org/10.1007/978-3-531-90627-0_5
 
 
 ### 2.2 Exclusion, Segregation, Integration and Inclusion in Education
@@ -822,21 +816,27 @@ We will invite you to reflect on discrimination.
 ### 2.3 Exercise: Thinking About Inclusion from a Student Perspective
 -------------------
 
-> "Inclusive education is differentiated from “integration,” which was identified with the late 1970s and 1980s advocacy movement to educate students with developmental disabilities in regular schools albeit in self-contained classrooms rather than in special education schools with little or no contact with general education students, settings, or curricula (Sailor et al., 1989) and from _“mainstreaming,”_ in which students with disabilities are members of special education classes but “visit” general education classes to engage in educational and social activities with same-age general education peers (Halvorsen & Neary, 2001; Sailor, 1991). Unlike integrated or mainstreamed students, students who receive inclusive educational services are members of the general education classroom community. According to Halvorsen and Neary (2001), “the single most identifiable characteristic of inclusive education is membership. Students who happen to have disabilities are seen first as kids who are a natural part of the school and the age appropriate general education classroom they attend” (Hunt & McDonnall, 2007, S. 270)[^1]
+Inclusive education is differentiated from "integration", which was identified with the late 1970s and 1980s advocacy movement to educate students with developmental disabilities in regular schools (albeit in their own classrooms) rather than in special education schools with little or no contact with general education students, settings, or curricula (Sailor et al., 1989)[^1]. 
 
+It is also differentiated from "mainstreaming", in which students with disabilities belong to special education classes but "visit" general education classes to engage in educational and social activities with their same-age general education peers (Halvorsen & Neary, 2001[^2]; Sailor, 1991[^3]).
 
-Task: Interactive reflection on inclusive settings in the classroom
+Unlike integrated or mainstreamed students, students who receive inclusive educational services are members of the general education classroom community. According to Halvorsen and Neary (2001)[^2], “the single most identifiable characteristic of inclusive education is membership. Students who happen to have disabilities are seen first as kids who are a natural part of the school and the age appropriate general education classroom they attend” (Hunt & McDonnall, 2007, S. 270)[^4]
+
+Interactive Reflection on Inclusive Settings in the Classroom
 ---
 
-Watch the following video to get an understanding of the differences between integration, perceived inclusion and true inclusion.
-
-Pay attention on the following:
-
-* How homogeneous and heterogeneous is the class community portrayed?
-* Observe who is located and moves where in the classroom?
-* Who interacts with whom and how?
-* What impressions, feelings and wishes does the narrator describe?
-
+> @admonition(warning, Task: )
+>
+> Watch the following video "What is Inclusion" to gain an understanding of the differences between integration, perceived inclusion, and true inclusion.
+> 
+> Pay attention to the following points:
+>
+> * How homogeneously or heterogeneously is the class community portrayed?
+> * Observe who is located where in the classroom and where people move to.
+> * Who interacts with whom, and how?
+> * What impressions, feelings, and wishes does the narrator describe?
+>
+> After the video use drag&drop interaction to sort the observations into the appropriate fields.
 
 !?[What Is Inclusion?](https://www.youtube.com/watch?v=3VMz06iVzqs&t=32s)
 
@@ -847,7 +847,7 @@ Pay attention on the following:
 
 Integration
 
-I don't understand why I'm at the back  f the class. I wish I was like everyone else. I want to do what they are doing. But here I am doing this a same old number activity watching as my classmates learn something else. Don't they know that they're setting me up to fail? Don't they know they hold my future in their hands? I want to work in my class, learn what they are learning and do the activities they do. But here I am stuck at the back, limited by low expectations. Having a one-on-one teacher aide just teaches me to rely on them and means I get less attention from the teacher. I'm not included in the classroom, I am in the same room but segregated from my peers, sat to the side or back working on different things and missing out. I want to be free to learn with my peers reach my full potential and be seen to be like everyone else. I need something to change. 
+I don't understand why I'm at the back of the class. I wish I was like everyone else. I want to do what they are doing. But here I am doing this a same old number activity watching as my classmates learn something else. Don't they know that they're setting me up to fail? Don't they know they hold my future in their hands? I want to work in my class, learn what they are learning and do the activities they do. But here I am stuck at the back, limited by low expectations. Having a one-on-one teacher aide just teaches me to rely on them and means I get less attention from the teacher. I'm not included in the classroom, I am in the same room but segregated from my peers, sat to the side or back working on different things and missing out. I want to be free to learn with my peers reach my full potential and be seen to be like everyone else. I need something to change. 
 
 Perceived inclusion
 
@@ -861,7 +861,7 @@ Can you find me in the crowd? Inclusion is more than just a word. It is a cultur
 
 ---
 
-Drag & Drop you observations into the corresponding field.
+Drag and Drop Your Observations Into the Appropriate Fields.
 -------
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=32" width="958" height="688" frameborder="0" allowfullscreen="allowfullscreen" title="Integration, percieved inclusion &amp; inclusion (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -871,63 +871,55 @@ Drag & Drop you observations into the corresponding field.
 
 ## 3. Inclusion in Global Legal Foundations
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/human-rights.png)
+![Treaties](treaties.png)
 
-Inclusion is a historically evolved concept whose basic idea is anchored in human rights.
+Inclusion is a concept that has evolved over time and is fundamentally anchored in human rights. Its anchoring in the UN Convention on the Rights of Persons with Disabilities, which reflects an understanding of disability based on human rights, has contributed to its general dissemination. Subsequently, the concept of inclusion became less strictly coupled to disability and established as a more general principle for dealing with diversity in society. Perceptions of an increasing divide over gender issues, generational conflicts, socio-economic divergence, and the challenges of cultural and religious diversity in the face of increased migration also came into focus.
 
-Its establishment in the UN Convention on the Rights of Persons with Disabilities, which is based on a fundamental human rights-based understanding of disability, has contributed to its general dissemination.
-
-Subsequently, the concept of inclusion was partly detached from its reference to people with disabilities and became a general principle for dealing with diversity in society. The perception of the increasing divide between people in different socio-economic situations, gender issues, generational conflicts and the challenges of cultural and religious diversity in the face of increased migration also came into focus.
-
-> __Learning Goals__
+> __Learning Goal__
 >
 > * You are able to describe the significance of international treaties and their implications for inclusion in education.
 
 
 ###	3.1 Treaties as Historical Milestones.
 
-International legal treaties and frameworks play a crucial role in advancing global standards for human rights and inclusion and diversity in education.
+International treaties and frameworks play a crucial role in advancing global standards for human rights and for inclusion and diversity in education.
 
 Among the most influential are the __1948 Universal Declaration of Human Rights (UDHR)__, the __1966 International Covenant on Civil and Political Rights (ICCPR)__, and the __International Covenant on Economic, Social and Cultural Rights (ICESCR)__. Together they formed the bedrock of international human rights law, also emphasizing the universal right to education.
 
-The __1989 Convention on the Rights of the Child (CRC)__ further underscored the specific needs and rights of children, advocating for their right to receive education in a manner that respects their inherent dignity and promoted their overall development. Complementing these frameworks, the Salamanca Statement adopted in 1994, called for inclusive education systems that accommodate all children, regardless of their physical, intellectual, social, emotional, linguistic, or other conditions.
+The __1989 Convention on the Rights of the Child (CRC)__ further underscored the specific needs and rights of children, advocating for their right to receive education in a manner that respects their inherent dignity and promotes their overall development. Complementing these frameworks, the __Salamanca Statement and Framework for Action on Special Needs Education__ adopted in 1994 called for inclusive education systems that accommodate all children, regardless of their physical, intellectual, social, emotional, linguistic, or other characteristics.
 
-In addition, the __2006 Convention on the Rights of Persons with Disabilities (CRPD)__ strengthened the commitment to inclusion by emphasizing the right of persons with disabilities to access quality education without discrimination and on an equal basis with others. This Convention has been instrumental in shifting perspectives towards a more inclusive and equitable approach to education.
+In addition, the __2006 Convention on the Rights of Persons with Disabilities (CRPD)__ strengthened commitment to inclusion by emphasising the right of persons with disabilities to access quality education without discrimination and on an equal basis with others. This convention has been instrumental in shifting perspectives towards a more inclusive and equitable approach to education.
 
-The __Sustainable Development Goals for 2030 (SDGs) __established in 2015, particularly Goal 4.5 which aims to eliminate gender disparities in education and ensure equal access to all levels of education for the vulnerable provided a comprehensive roadmap for global education development.
+The __Sustainable Development Goals for 2030 (SDGs)__ established in 2015, particularly Goal 4.5, which aims to eliminate gender disparities in education and ensure equal access to all levels of education for the vulnerable, provided a comprehensive roadmap for global education development.
 
-Together, these international legal instruments and goals compel governments and educational institutions to recognize and address the diverse needs of all learners.
+Together, these international legal instruments and goals compel governments and educational institutions to recognise and address the diverse needs of all learners.
 
-Timeline of international humann rights and education for all treaties
+Treaties Timeline: International Human Rights and Education For All
 -----------------------
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="95%" height="625" frameborder="0" allowfullscreen="allowfullscreen" title="EN - Timeline - Legal Foundations for Diversity &amp; Inclusion in Education"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### 3.2 Sustainable Developement Goals 2030 (SDGs) 2015
+### 3.2 Sustainable Developement Goals 2030 (SDGs)
 
 The [Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals) were established in 2015 during the United Nations Sustainable Development Summit as a universal call to action to end poverty, protect the planet, and ensure prosperity for all by 2030. 
 
-They were created to address the global challenges facing humanity, including inequality, climate change, and peace and justice.
+They were created to address the global challenges facing humanity, including inequality, climate change, and the achievement of peace and justice.
 
 SDG 4 - Quality Education
 ---
 
-__Sustainable Development Goal (SDG) 4__ on education calls for inclusive and equitable quality education and lifelong learning
-opportunities for all by 2030. It emphasizes inclusion and equity as laying foundations for quality education and learning.
+__Sustainable Development Goal (SDG) 4__ on education calls for inclusive and equitable quality education and lifelong learning opportunities for all by 2030. It emphasises inclusion and equity as foundations for quality education and learning.
 
 SDG 4 also calls for building and upgrading education facilities that are child-, disability-, and gender-sensitive and for
 providing safe, non-violent, inclusive and effective learning environments for all.
 
-To achieve this ambitious goal, countries should ensure inclusion and equity in and through education system and programs.
-This includes taking steps to prevent and address all forms of exclusion and marginalization, disparity, vulnerability and
-inequality in educational access, participation, and completion as well as in learning processes and outcomes. It also requires
-understanding learners’ diversities as opportunities in order to enhance and democratize learning for all students. See UNESCO (2017)[^1]
+To achieve this ambitious goal, countries should ensure inclusion and equity in and through education system and programmes. This includes taking steps to prevent and address all forms of exclusion and marginalisation, disparity, vulnerability and inequality in educational access, participation, and completion as well as in learning processes and outcomes. It also requires understanding learners' diversities as opportunities in order to enhance and democratise learning for all students. (UNESCO, 2017)[^1]
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="950" height="702" frameborder="0" allowfullscreen="allowfullscreen" title="17 Sustainable Developement Goals"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ---
 
-[^1]: UNESCO. Assistant Director-General for Education, 2010-2018 (Qian Tang), & UNESCO. (2017). A Guide for ensuring inclusion and equity in education. UNESCO. https://doi.org/10.54675/mhhz2237
+[^1]: UNESCO. Assistant Director-General for Education, 2010-2018 (Qian Tang), & UNESCO. (2017). A guide for ensuring inclusion and equity in education. UNESCO. https://doi.org/10.54675/mhhz2237
 
 ###	3.3 Summary Quiz
 
@@ -935,7 +927,7 @@ understanding learners’ diversities as opportunities in order to enhance and d
 
 ## 4. Inclusive School Structures and Practices
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/school.png)
+![Inclusive School](school.png)
 
 It becomes clear that inclusion is a sense of belonging, feeling respected and valued and being seen for who we are as individuals. However, it takes a certain level of commitment and supportive energy from school leaders and colleagues, as well as other educators, for us as individuals and as a collective to be inclusive in the school system (see Miller & Katz, 2002)[^1].
 
@@ -950,29 +942,26 @@ With this quote in mind, underpinning this OER is a broad understanding of inclu
 > __Learning Goals__
 > 
 > * You are able to specify what inclusive education means.
-> * You are able to explain how inclusive education could be implemented in schools on different levels (i.e., educational system, single school, lesson).
+> * You are able to explain how inclusive education could be implemented in schools at different levels (i.e. education system, single school, lesson).
 
 
 [^1]: Frederick, A., & Katz, J. H. (2002). The Inclusion Breakthrough: Unleashing the Real Power of Diversity Miller. Berrett-Koehler Punlishers, Inc.
 
 [^2]: Thomas, G. (2013). A review of thinking and research about inclusive education policy, with suggestions for a new kind of inclusive thinking. British Educational Research Journal, 39(3), 473–490, p.485. https://doi.org/10.1080/01411926.2011.652070
 
-[^3]: Köpfer, A., Powell, J. J. W., & Zahnd, R. (2021). Handbuch Inklusion international / International Handbook of Inclusive Education (A. Köpfer, J. J. W. Powell, & R. Zahnd, Eds.). Verlag Barbara Budrich. https://library.oapen.org/handle/20.500.12657/46311
+[^3]: Köpfer, A., Powell, J. J. W., & Zahnd, R. (2021). Handbuch Inklusion international / International handbook of inclusive education (A. Köpfer, J. J. W. Powell, & R. Zahnd, Eds.). Verlag Barbara Budrich. https://library.oapen.org/handle/20.500.12657/46311
 
 
 
 ### 4.1 Inclusive Education – a Broad Term with a Common Sense
 
 
-> "An important element of inclusive education involves ensuring that all teachers are prepared to teach all students. Inclusion cannot be realized unless teachers are empowered agents of change, with vlues, knowledge and attitudes that permit every student to succeed. Despite their differences in teacher standards and qualifications, education systems are increasingly moving away from identifying problems with learners and towards identifying barriers to learning. To complete this shift, education systems must design teacher education and professional learning opportunities that dispel entrenched views that some students are deficient, unable to learn or incapable." 
->
-> -- UNESCO (2020)[^1] 
+"An important element of inclusive education involves ensuring that all teachers are prepared to teach all students. Inclusion cannot be realized unless teachers are empowered agents of change, with vlues, knowledge and attitudes that permit every student to succeed. Despite their differences in teacher standards and qualifications, education systems are increasingly moving away from identifying problems with learners and towards identifying barriers to learning. To complete this shift, education systems must design teacher education and professional learning opportunities that dispel entrenched views that some students are deficient, unable to learn or incapable." (UNESCO, 2020)[^1] 
 
 Core values and competence areas of inclusive teaching
 ---
 
-
-<center>![Core Values and Competence Areas of Inclusive Teaching](5f47ce12bd53b47705bf96714a1a99404cdc8ffe.png)Core Values and Competence Areas of Inclusive Teaching, UNESCO (2020)[^1]</center>
+<center>![Core Values and Competence Areas of Inclusive Teaching](inclusive-teaching-competence-arenas.png)Core Values and Competence Areas of Inclusive Teaching, UNESCO (2020)[^1]</center>
 
 ------
 <details>
@@ -995,47 +984,43 @@ Core values and competence areas of inclusive teaching
 
 The values, core competences, values, and professional standards listed here reflect current developments and recommendations for action in the area of inclusion and diversity.
 
-In the next section
+What You Will Find in the Next Section
 ----
 
-In the following, we focus on the Response-to-intervention approach as a way of targeted prevention that is implemented in successful educational nations. 
+We will focus on the Response to Intervention approach as a mode of targeted prevention that is implemented in successful educational nations.
 
 [^1]: UNESCO Global Education Monitoring Report Team, International Task Force on Teachers for Education. (2020). Inclusive teaching: preparing all teachers to teach all students. https://unesdoc.unesco.org/ark:/48223/pf0000374447 
 
 
-### 4.2 Response-To-Intervention Approach
+### 4.2 The "Response to Intervention" Approach
 
-Based on the question of how successful educational nations deal with pupils who do not reach the minimum standards in maths or language, _“Response to Intervention_ (RTI) is a highly effective approach to supporting at-risk pupils and getting positive learning outcomes" (Hattie, 2018)[^1].
+Asking how successful educational nations deal with students who do not reach minimum standards in maths or language leads to the "Response to Intervention" (RTI) approach that "is a highly effective approach to supporting at-risk pupils and getting positive learning outcomes" (Hattie, 2018)[^1].
 
-> The main objective of RTI is not to identify students for special education but rather to help all students achieve at a proficient level and ultimately make adequate yearly progress. 
+The Main Objective of RTI
+---
 
-That means, it is not about categorising children as “need special support” and “no need of special support”, but about knowing exactly who is “not yet able” or successful enough in achieving competences, but can achieve with targeted support and encouragement. Therefore, ongoing diagnostics is necessary (Osberg, 2010)[^2].
+The main objective of RTI is not to identify students as candidates for special education but rather to help all students achieve at a proficient level and ultimately make adequate yearly progress.
 
-The RTI approach is often visualised as a pyramid and a model of three levels or tiers. 
+This means that the aim is not to categorise children as needing special support or not being in that category but about knowing exactly who is "not yet able" or not yet making enough progress towards achieving competences but can achieve them with targeted support and encouragement. Ongoing diagnostics are necessary for this. (Osberg, 2010)[^2].
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/rti-model.png "RTI Model. Pretti-Frontczak et al., 2014, p. 110[^4]")
+3 Levels or Tiers
+---
 
-* __Tier 1__
+The RTI approach is often visualised as a pyramid and a model of three levels or tiers.
 
-   The lowest level __(tier 1)__, which benefits all learners, is regular teaching and responding adaptively to different learning requirements. But some learners need more. 
+<center>![Response to Intervention Model](rti.png)RTI Model. Pretti-Frontczak et al., 2014, p. 110[^3]</center>
 
-* __Tier 2__
+<br>
 
-   Children whose diagnostics indicate competences that they have not yet achieved receive a _focussed intervention_ as short-term, curriculum-based intensive small group and/or individual interventions at the next higher level __(tier 2)__, in order to catch up with the class. In many schools, this affects between 15 and 20 per cent of all pupils; depending on the context of the school, the proportion can be even higher. 
+* __Tier 1:__  The lowest level involves regular teaching and responding adaptively to different learning requirements. All learners benefit from this. But some learners need more.
 
-* __Tier 3__
+* __Tier 2:__ Children whose diagnostics indicate that certain competences have not yet been achieved receive focused interventions in a short-term, curriculum-based small intensive group and/or individual interventions at the tier 2 level, in order to catch up with the class. In many schools, this affects between 15 and 20 per cent of all students, but it can be relevant for a higher proportion of students in some schools.
 
-   The third stage __(tier 3)__ means _“special intervention”_, it is used for learners for whom the focussed intervention has not yet been sufficient. It is designed for the longer term, is individualised and is based on in-depth diagnostics. This often affects around five per cent of learners, for whom responsible and professional pedagogical action can be guaranteed through this form of intervention (University of Rostock 2024)[^3].
+* __Tier 3:__ At the third level, "special interventions" are provided for learners for whom the focused intervention was not sufficient. These interventions are designed for longer timespans, individualised, and based on in-depth diagnostics. They are often relevant for around five per cent of learners and they ensure that this group is addressed with responsible and professional pedagogical action (University of Rostock 2024)[^3]
 
-Ongoing individual diagnostic in inclusive classes, individual support for both high-achieving and low-achieving students
-
-
-
-
-
-Video: RTI Model explained
+Video: Response to Intervention: A Tiered Approach to Instructing All Students
 -------
-Let's view the following video to find out more details about the approach.
+Let us watch the following video to find out more about the RTI approach.
 
 !?[](https://www.youtube.com/watch?v=nkK1bT8ls0M&t "Source: https://www.youtube.com/watch?v=nkK1bT8ls0M")
 
@@ -1043,25 +1028,15 @@ Let's view the following video to find out more details about the approach.
 
 <summary>__Click here to show the video transcript__</summary>
 
-Here we'll look at a three- tiered model often depicted as a triangle as one example of how a tiered framework can be used as a schoolwide strategy. For instructing all students all students will participate in tier one instruction at this level they'll receive effective differentiated instruction provided by the general classroom teacher as part of an evidence-based Core Curriculum. 
+Here we'll look at a three-tiered model often depicted as a triangle as one example of how a tiered framework can be used as a schoolwide strategy for instructing all students. 
 
-The evidence-based instruction offered at this level can be expected to meet the learning needs of 80 to 85% of all students for students who don't respond adequately to Tier 1 instruction. More intensive interventions come into play tier 2 interventions build upon the differentiated instruction provided at tier one by offering students more systematic instruction and intervention strategically designed to help them catch up in areas of difficulty.
+All students will participate in tier one instruction. At this level, they'll receive effective differentiated instruction provided by the general classroom teacher as part of an evidence-based core curriculum. The evidence-based instruction offered at this level can be expected to meet the learning needs of 80 to 85% of all students. For students who don't respond adequately to Tier 1 instruction, more intensive interventions come into play.
 
-These interventions are usually delivered to a small group of students within the general classroom either by the classroom teacher or by another team member supporting the teacher who has also been trained to deliver the interventions tier 2 intervention will be offered to the 15% of students for whom Tier 1 instruction was not sufficiently intensive to meet their specific learning needs. 
+Tier 2 interventions build upon the differentiated instruction provided at tier one by offering students more systematic instruction and intervention strategically designed to help them catch up in areas of difficulty. These interventions are usually delivered to a small group of students within the general classroom either by the classroom teacher or by another team member supporting the teacher who has also been trained to deliver the interventions. Tier 2 intervention will be offered to the 15% of students for whom Tier 1 instruction was not sufficiently intensive to meet their specific learning needs. But here is a critical point: students who receive targeted tier 2 interventions continue to participate in general tier one instruction. Tier two interventions do not replace the core curriculum, they supplement it. 
 
-But here is a critical point students who receive targeted tier 2 interventions continue to participate in general tier one instruction. Tier two interventions do not replace the Core Curriculum they supplement it for example Dennis has been selected to receive tier 2 interventions. 
+For example Dennis has been selected to receive tier 2 interventions. Based on the results of recent reading fluency data, he'll continue to participate in the 90 minutes of core reading instruction that is provided to all students in tier one each day, but in addition he'll spend another 30 minutes per day receiving targeted reading instruction at tier 2. Under RTI, his opportunities for learning and for catching up to his classmates will have been extended. 
 
-Based on the results of recent reading fluency data he'll continue to participate in the 90 minutes of core reading instruction that is provided to all students in tier one each day but in addition he'll spend another 30 minutes per day receiving targeted reading instruction at tier 2. 
-
-Under RTI his opportunities for learning and for catching up to his classmates will have been extended we've saved the most intensive interventions available for the small percentage of students who still lag significantly behind their peers in making academic gains. 
-
-Tier three interventions supplement the previous tiers by providing the most intensive evidence-based interventions to delivered to individual students or in very small groups. 
-
-Again the intensity of instruction at this level increases the size of student groups is reduced and their opportunities for direct instruction extended interventions. 
-
-In tier three may be delivered by an intervention specialist or even a special education teacher but again these interventions supplement the instruction provided at tier one not replace it and students do not have to be identified as disabled in order to receive these interventions. 
-
-Only about 5% of all students will require these intensive tier 3 interventions of these students only a portion may go on to require special ed services
+We've saved the most intensive interventions available for the small percentage of students who still lag significantly behind their peers in making academic gains. Tier three interventions supplement the previous tiers by providing the most intensive evidence-based interventions to delivered to individual students or in very small groups. Again the intensity of instruction at this level increases, the size of student groups is reduced, and their opportunities for direct instruction extended. Interventions in tier three may be delivered by an intervention specialist or even a special education teacher, but again, these interventions supplement the instruction provided at tier one, not replace it, and students do not have to be identified as disabled in order to receive these interventions. Only about 5% of all students will require these intensive tier 3 interventions. Of these students, only a portion may go on to require special ed services.
 
 </details>
 
@@ -1069,9 +1044,9 @@ Only about 5% of all students will require these intensive tier 3 interventions 
 
 When looking at this approach, it quickly becomes clear that educational policies and structures as well as competences of the school principals as mangers are crucial. RTI needs cooperation between educational actors (school principals, teachers, other professions, also parents) and in fact, this is a key prerequisite for quality education and professionalisation. 
 
-In the next section
+What You Will Find in the Next Section
 -----
-In the following, we will look at different types of cooperation.
+In the next section, we will look at different types of cooperation.
 
 
 [^1]: Waack, S. (n.d.). Hattie effect size list - 256 Influences Related To Achievement. VISIBLE LEARNING. Retrieved October 7, 2024, from https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
@@ -1593,7 +1568,7 @@ Due to the variety and diversity of autistic symptoms, the technical term _autis
 
 "Autism spectrum disorder is characterised by persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication, and by a range of restricted, repetitive, and inflexible patterns of behaviour, interests or activities that are clearly atypical or excessive for the individual’s age and sociocultural context."[^1]
 
-![](30c58399a08101c24f786dca8c004d57d224d127.png)
+![IFC-model](ifc-model.png)
 
 In the following section
 ---
@@ -2107,7 +2082,8 @@ Feedback wall
 
 ## Bibliography
 
-References
+A-Z
+
 Abbott, K. (2014). Social justice. In Encyclopedia of Quality of Life and Well-Being Research (pp. 6115–6119). Springer Netherlands.
 
 American Psychological Association. (2012). Guidelines for psychological practice with lesbian, gay, and bisexual clients. The American Psychologist, 67(1), 10–42. https://doi.org/10.1037/a0024659
@@ -2129,6 +2105,8 @@ Bronfenbrenner, U. (1981). Die Ökologie der menschlichen Entwicklung: natürlic
 Brüderl, J. (2019). Vorlesung Sozialstrukturanalyse. https://www.ls3.soziologie.uni-muenchen.de/studium-lehre/lehrmaterialien/ws-2019-2020/vorlesung-sozialstruktur_19.pdf
 
 Bührmann, A. (2018). Diversität. Socialnet Lexikon. https://www.socialnet.de/lexikon/6324
+
+Cambridge University Press. (n.d.). Meaning of discrimination in English. Cambridge Dictionary. Retrieved November 24, 2024, from https://dictionary.cambridge.org/dictionary/english/discrimination
 
 Costa, P. T., Jr, McCrae, R. R., & Löckenhoff, C. E. (2019). Personality across the life span. Annual Review of Psychology, 70(1), 423–448. https://doi.org/10.1146/annurev-psych-010418-103244
 
@@ -2164,15 +2142,19 @@ Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010). Co-teachi
 
 Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021). Neuromechanical Biomarkers for Robotic Neurorehabilitation. Frontiers in Neurorobotics, 15. https://doi.org/10.3389/fnbot.2021.742163
 
-Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur Defi nition von Inklusion aus Sicht der empirischen Bildungsforschung. In P. Kuhl, P. Stanat, B. Lütje-Klose, C. Gresch, H. A. Pant, & M. Prenzel (Eds.), Inklusion von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen (pp. 17–39). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-06604-8
-
 Gigerenzer, G., & Brighton, H. (2009). Homo heuristicus: Why biased minds make better inferences. Topics in Cognitive Science, 1(1), 107–143. https://doi.org/10.1111/j.1756-8765.2008.01006.x
+
+Gomolla, M. (2008, February 18). Institutionelle Diskriminierung im Bildungs- und Erziehungssystem: Theorie, Forschungsergebnisse und Handlungsperspektiven. Heinrich Böll Stiftung. https://heimatkunde.boell.de/de/2008/02/18/institutionelle-diskriminierung-im-bildungs-und-erziehungssystem-theorie
+
+Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur Defi nition von Inklusion aus Sicht der empirischen Bildungsforschung. In P. Kuhl, P. Stanat, B. Lütje-Klose, C. Gresch, H. A. Pant, & M. Prenzel (Eds.), Inklusion von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen (pp. 17–39). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-06604-8
 
 Handbook for Teachers on Inclusive Education. (2020). Central Board of Secondary Education, Acedemic Unit. https://cdnbbsr.s3waas.gov.in/s3kv011a846fe7a5fa4b4b6d1eca45b228/uploads/2024/02/2024020919.pdf
 
 Hans, H. (1989). Intersubjektivität - Die Entwicklung des Werkes von G. Suhrkamp.
 
 Hattie, J. (2012). Visible learning for teachers. Routledge. https://doi.org/10.4324/9780203181522
+
+Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/discriminate
 
 Helle, H. J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher.
 
@@ -2290,7 +2272,7 @@ E-mail: [teacheredu.euniwell@uni-konstanz.de](mailto:teacheredu.euniwell@uni-kon
 
 ---
 
-> @admonition(warning,This is a test)
+> @admonition(warning,This is a yellow)
 >
 > Foo
 > bar

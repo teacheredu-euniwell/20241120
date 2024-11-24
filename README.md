@@ -1,5 +1,5 @@
 <!--
-version:  2024.11.21.01
+version:  2024.11.24.01
 
 author:   Manuela Ulrich, Sebastian Tillmann, Sarah Roos, Michael Kowalczyk, Samantha Jacobs
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     21/11/2024
+date:     24/11/2024
 
 attribute: The OER Self-study Module "Diversity & Inclusion in Education" of the European University for Well-Beeing is licenced under [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
